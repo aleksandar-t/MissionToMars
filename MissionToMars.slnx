@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MissionToMars.Domain/MissionToMars.Domain.csproj" Id="a8c81cc8-cfc5-4105-92c7-71f5ed319b97" />
+  <Project Path="MissionToMars.Infrastructure/MissionToMars.Infrastructure.csproj" Id="b814f1be-e0b3-46cb-88f6-4494e3f0509e" />
+  <Project Path="MissionToMars.MissionControl/MissionToMars.MissionControl.csproj" Id="7a00519a-14ab-4d95-8da4-e972779fff75" />
+  <Project Path="MissionToMars.Tests/MissionToMars.Tests.csproj" Id="a84dab6b-23df-484c-be54-02d45b26cb08" />
+  <Project Path="MissionToMars/MissionToMars.Console.csproj" />
+</Solution>
