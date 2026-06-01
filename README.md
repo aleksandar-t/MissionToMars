@@ -2,8 +2,6 @@
 
 This repository contains my implementation of the given Mars Rover interview assignment.
 
-The original assignment PDF is included in this repository: [View assignment](docs/NET Backend Lead Engineer - Tech Challenge.pdf).
-
 I approached the task as more than a simple command-line parser that moves rovers around a grid. The basic requirement is to calculate the final rover positions from a rectangular plateau, starting positions, and movement instructions. My solution keeps that required behavior, but structures it as a small mission-control system with validation, planning, execution orchestration, mocked delivery, acknowledgements, and unit tests.
 
 The intention behind this design is to show how I would think about the problem if rover movement commands were not just local calculations, but mission instructions that should be validated before execution and confirmed before continuing to the next rover.
